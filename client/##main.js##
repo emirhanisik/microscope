@@ -1,0 +1,25 @@
++<head>
++ <title>microscope</title>
++</+<head>
++ <title>microscope</title>
++</head>
++
++<body>
++ {{> hello }}
++</body>
++
++<template name ="hello">
++ <h1>Hello World!</h1>
++ {{greeting}}
++ <input type="button" value="click" />
++</templatehead>
++
++<body>
++ {{> hello }}
++</body>
++
++<template name ="hello">
++ <h1>Hello World!</h1>
++ {{greeting}}
++ <input type="button" value="click" />
++</template>
